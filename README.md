@@ -6,7 +6,7 @@ This repository contains a Power BI dashboard created to visualize website perfo
 
 ## Dataset
 
-The dataset used for this project is `website_performance_analytics.csv`, which includes the following key variables:
+The dataset used for this project is [`website_performance_analytics.csv`](website_performance_analytics.csv), which includes the following key variables:
 
 - **Visitor_ID**: Unique identifier for each visitor.
 - **Page_Views**: Number of pages viewed by the visitor during a session.
